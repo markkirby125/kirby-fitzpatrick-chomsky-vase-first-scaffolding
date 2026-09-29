@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-chomsky-vase-first-scaffolding
-description: "Scaffold compile-time structural envelopes before filling domain business payloads." Use this when working on fitzpatrick chomsky vase first scaffolding.
+description: "Scaffold compile-time structural envelopes before filling domain business payloads. Use this when working on fitzpatrick chomsky vase first scaffolding."
 category: "Writing & Communication"
 triggers:
   - "chomsky vase first"
